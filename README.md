@@ -134,6 +134,12 @@ Executar Streamlit:
 streamlit run src/app_streamlit.py
 ```
 
+Abrir o notebook de apresentacao:
+
+```powershell
+jupyter notebook notebooks/06_apresentacao_projeto.ipynb
+```
+
 ## Saidas Geradas
 
 - `results/resumo_eda.csv`
@@ -171,6 +177,7 @@ projeto-recomendacao-desperdicio/
 |   +-- recomendacoes_hibridas_exemplo.csv
 |   +-- graficos/
 +-- notebooks/
+|   +-- 06_apresentacao_projeto.ipynb
 +-- docs/
 ```
 
