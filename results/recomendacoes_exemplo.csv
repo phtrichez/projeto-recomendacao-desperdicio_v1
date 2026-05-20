@@ -1,0 +1,11 @@
+recipe_id,recipe_name,matched_ingredients,matched_count,available_count,urgency_sum,ingredient_score,urgency_score,media_rating,quantidade_avaliacoes,final_score
+138062,banana banana nut bread,"banana, eggs, flour, milk",4,4,14,1.0,1.0,4.892307692307693,65,0.9946153846153847
+84592,the best blueberry banana muffins,"banana, eggs, flour, milk",4,4,14,1.0,1.0,4.833333333333333,24,0.9916666666666667
+90402,kato s  easy banana cake,"banana, eggs, flour, milk",4,4,14,1.0,1.0,4.787878787878788,33,0.9893939393939395
+83407,banana crunch muffins,"banana, eggs, flour, milk",4,4,14,1.0,1.0,4.785714285714286,28,0.9892857142857143
+117229,oatmeal cookie pancakes,"banana, eggs, flour, milk",4,4,14,1.0,1.0,4.76,25,0.988
+16211,cranberry banana bread,"banana, eggs, flour, milk",4,4,14,1.0,1.0,4.744186046511628,43,0.9872093023255815
+94128,banana cake with caramel frosting,"banana, eggs, flour, milk",4,4,14,1.0,1.0,4.675,40,0.9837500000000001
+139372,the best butterscotch banana bread,"banana, eggs, flour, milk",4,4,14,1.0,1.0,4.65,20,0.9825000000000002
+59900,best ever banana bread  honestly,"banana, eggs, flour, milk",4,4,14,1.0,1.0,4.603448275862069,58,0.9801724137931036
+32082,chocolate banana cake,"banana, eggs, flour, milk",4,4,14,1.0,1.0,4.6,75,0.98

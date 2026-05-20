@@ -1,0 +1,11 @@
+metrica,valor
+random_state,42.0
+total_interacoes_original,1132367.0
+min_interacoes_usuario,5.0
+min_avaliacoes_receita,10.0
+max_usuarios_configurado,800.0
+max_receitas_configurado,1500.0
+interacoes_amostra,1512.0
+usuarios_amostra,395.0
+receitas_amostra,97.0
+media_rating_amostra,4.586640211640212
