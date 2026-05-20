@@ -140,6 +140,12 @@ Abrir o notebook de apresentacao:
 jupyter notebook notebooks/06_apresentacao_projeto.ipynb
 ```
 
+Abrir o notebook de fechamento da Entrega 4:
+
+```powershell
+jupyter notebook notebooks/07_entrega_final_modulo4.ipynb
+```
+
 ## Saidas Geradas
 
 - `results/resumo_eda.csv`
@@ -178,6 +184,7 @@ projeto-recomendacao-desperdicio/
 |   +-- graficos/
 +-- notebooks/
 |   +-- 06_apresentacao_projeto.ipynb
+|   +-- 07_entrega_final_modulo4.ipynb
 +-- docs/
 ```
 
